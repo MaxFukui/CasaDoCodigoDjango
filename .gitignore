@@ -1,0 +1,3 @@
+./medicSearchAdmin/settings/testing.py
+./medicSearchAdmin/settings/production.py
+./medicSearchAdmin/settings/development.py
