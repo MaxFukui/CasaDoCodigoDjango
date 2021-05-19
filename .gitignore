@@ -1,4 +1,4 @@
-.medicSearchAdmin/settings/testing.py
-.medicSearchAdmin/settings/production.py
-.medicSearchAdmin/settings/development.py
-.medicSearchAdmin/settings.py
+./medicSearchAdmin/settings/testing.py
+./medicSearchAdmin/settings/production.py
+./medicSearchAdmin/settings/development.py
+./medicSearchAdmin/settings.py
